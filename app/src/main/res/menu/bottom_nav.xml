@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title=""
+        android:id="@+id/folder"
+        android:icon="@drawable/ic_folder" />
+    <item android:title=""
+        android:id="@+id/star"
+        android:icon="@drawable/ic_star"/>
+
+    <item android:title=""
+        android:id="@+id/inbox"
+        android:icon="@drawable/ic_inbox"/>
+    <item android:title=""
+        android:id="@+id/event"
+        android:icon="@drawable/ic_tick"/>
+    <item android:title=""
+        android:id="@+id/save"
+        android:icon="@drawable/ic_save"/>
+</menu>
+
+
+
+
+
+
+

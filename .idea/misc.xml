@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1305" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/drawable/ic_attach.xml" value="0.1305" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/drawable/ic_folder.xml" value="0.1305" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/drawable/ic_menu.xml" value="0.1305" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/drawable/ic_menuu.xml" value="0.1305" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/drawable/ic_sea.xml" value="0.1305" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/drawable/ic_star.xml" value="0.1305" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/drawable/toolbar_bg.xml" value="0.1305" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/layout-v28/activity_main.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/layout/fragment_event.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/layout/fragment_folder.xml" value="0.30870917573872475" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/layout/fragment_inbox.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/layout/fragment_save.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/layout/fragment_star.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/layout/swiperv.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/swipe/app/src/main/res/menu/bottom_nav.xml" value="0.20677083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
