@@ -41,6 +41,7 @@ public class FolderFragment extends Fragment implements com.example.swipe.ItemTo
         userList = getUserList();
         adapter = new UserAdapter(userList);
         swipeRV.setAdapter(adapter);
+
         RecyclerView.ItemDecoration itemDecoration = new DividerItemDecoration(this.getContext(), DividerItemDecoration.VERTICAL);
         swipeRV.addItemDecoration(itemDecoration);
         ItemTouchHelper.SimpleCallback simpleCallback = new RecyclerViewTouchHelper(0, ItemTouchHelper.LEFT,this);
